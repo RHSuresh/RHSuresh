@@ -1,7 +1,7 @@
-## Welcome!👋 I'm Rohit and I am a rising senior majoring in Computer Science at the University of Connecticut!
+## Welcome to my GitHub! I'm Rohit!
+<h3 align="center">Junior CS Major @ UConn</h3>
 
 <<!--
-**RHSuresh/RHSuresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
