@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h3 align="center">Junior CS Major @ UConn</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:https://www.linkedin.com/in/rohit-suresh-7b3901214/</h3>
 <p align="left">
 </p>
 
