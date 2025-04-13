@@ -89,8 +89,6 @@
 
 ###
 
-<div align="left">
-  <img src="https://www.linkedin.com/in/rohit-suresh-7b3901214/" width="52" height="40" alt="linkedin logo"  />
-</div>
+
 
 ###
