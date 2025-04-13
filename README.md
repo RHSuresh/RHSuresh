@@ -13,9 +13,7 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/RHSuresh/count.svg?"  />
-</div>
+
 
 ###
 
@@ -87,7 +85,7 @@
 
 ###
 
-<p align="left">Feel free to contact me!</p>
+
 
 ###
 
