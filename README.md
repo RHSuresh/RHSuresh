@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Rohit! <br><br>I am a Junior majoring in Computer Science and concentrating in Cybersecurity at the University of Connecticut!<br><br>I am interested in finding an Internship or Co-Op for the Summer 2025 season!</p>
+<p align="left">My name is Rohit! <br><br>I am a Senior majoring in Computer Science and concentrating in Cybersecurity at the University of Connecticut!<br><br>I am interested in finding an Internship or Co-Op for the Summer 2025 season!</p>
 
 <p align="left"> Here is a link to my projects: https://github.com/RHSuresh/Projects</p>
 
