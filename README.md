@@ -1,5 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b4c48&height=120&section=header&text=Rohit%20Suresh&fontSize=36&fontColor=6fe0d4&fontAlignY=65&animation=fadeIn" width="100%"/>
+
+<!-- Static teal fade header — name in DM Mono style, no animation -->
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
+  <defs>
+    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b4c48"/>
+      <stop offset="100%" stop-color="#0b4c48" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="100" fill="url(#fade)"/>
+  <text x="400" y="58" font-family="monospace" font-size="28" font-weight="400" letter-spacing="-0.5" fill="#6fe0d4" text-anchor="middle">Rohit Suresh</text>
+</svg>
+
 </div>
 
 <br/>
@@ -103,19 +115,37 @@ Senior CS student at UConn — Cybersecurity concentration, Cognitive Science mi
 ### GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RHSuresh&show_icons=true&theme=dark&bg_color=0b4c48&title_color=6fe0d4&icon_color=6fe0d4&text_color=c5dbd9&border_color=1a7a72&hide_border=false&count_private=true&include_all_commits=true" height="160" alt="GitHub Stats"/>
+
+  <!-- Stats card — github-readme-stats with custom teal palette -->
+  <img src="https://github-readme-stats.vercel.app/api?username=RHSuresh&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b4c48&title_color=6fe0d4&icon_color=6fe0d4&text_color=c5dbd9&border_color=1a7a72&border_radius=6" height="165" alt="GitHub Stats"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=RHSuresh&layout=compact&theme=dark&bg_color=0b4c48&title_color=6fe0d4&text_color=c5dbd9&border_color=1a7a72&hide_border=false&langs_count=6&card_width=300" height="160" alt="Top Languages"/>
+  <!-- Top languages — profile-summary-cards (more reliable alternative) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RHSuresh&theme=transparent&title_color=6fe0d4&text_color=c5dbd9&bg_color=0b4c48&border_color=1a7a72" height="165" alt="Top Languages"/>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=RHSuresh&theme=dark&background=0b4c48&ring=6fe0d4&fire=6fe0d4&currStreakLabel=6fe0d4&sideLabels=c5dbd9&dates=93b3b1&border=1a7a72" height="160" alt="GitHub Streak"/>
+
+  <!-- Streak stats — using the more stable alternative endpoint -->
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=RHSuresh&background=0b4c48&ring=6fe0d4&fire=6fe0d4&currStreakLabel=6fe0d4&sideLabels=c5dbd9&dates=93b3b1&border=1a7a72&border_radius=6&stroke=1a7a72" height="165" alt="GitHub Streak"/>
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0b4c48&height=80&section=footer" width="100%"/>
+
+<!-- Static teal fade footer — fades into transparent -->
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60">
+  <defs>
+    <linearGradient id="fadebottom" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#0b4c48" stop-opacity="0"/>
+      <stop offset="100%" stop-color="#0b4c48"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="60" fill="url(#fadebottom)"/>
+</svg>
+
 </div>
