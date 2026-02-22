@@ -1,6 +1,5 @@
 <div align="center">
 
-<!-- Static teal fade header — name in DM Mono style, no animation -->
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
   <defs>
     <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
@@ -114,30 +113,23 @@ Senior CS student at UConn — Cybersecurity concentration, Cognitive Science mi
 
 ### GitHub Stats
 
+<!-- All three cards from github-profile-summary-cards — same host, consistent styling -->
 <div align="center">
-
-  <!-- Stats card — github-readme-stats with custom teal palette -->
-  <img src="https://github-readme-stats.vercel.app/api?username=RHSuresh&show_icons=true&count_private=true&include_all_commits=true&bg_color=0b4c48&title_color=6fe0d4&icon_color=6fe0d4&text_color=c5dbd9&border_color=1a7a72&border_radius=6" height="165" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RHSuresh&theme=transparent&title_color=6fe0d4&text_color=c5dbd9&bg_color=0b4c48&border_color=1a7a72" height="165" alt="Profile Stats"/>
   &nbsp;&nbsp;
-  <!-- Top languages — profile-summary-cards (more reliable alternative) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RHSuresh&theme=transparent&title_color=6fe0d4&text_color=c5dbd9&bg_color=0b4c48&border_color=1a7a72" height="165" alt="Top Languages"/>
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=RHSuresh&theme=transparent&title_color=6fe0d4&text_color=c5dbd9&bg_color=0b4c48&border_color=1a7a72" height="165" alt="Top Languages by Repo"/>
 </div>
 
 <br/>
 
 <div align="center">
-
-  <!-- Streak stats — using the more stable alternative endpoint -->
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=RHSuresh&background=0b4c48&ring=6fe0d4&fire=6fe0d4&currStreakLabel=6fe0d4&sideLabels=c5dbd9&dates=93b3b1&border=1a7a72&border_radius=6&stroke=1a7a72" height="165" alt="GitHub Streak"/>
-
 </div>
 
 ---
 
 <div align="center">
 
-<!-- Static teal fade footer — fades into transparent -->
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60">
   <defs>
     <linearGradient id="fadebottom" x1="0" y1="0" x2="0" y2="1">
