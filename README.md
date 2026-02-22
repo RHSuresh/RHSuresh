@@ -1,13 +1,4 @@
 <div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
-  <defs>
-    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0b4c48"/>
-      <stop offset="100%" stop-color="#0b4c48" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="100" fill="url(#fade)"/>
   <text x="400" y="58" font-family="monospace" font-size="28" font-weight="400" letter-spacing="-0.5" fill="#6fe0d4" text-anchor="middle">Rohit Suresh</text>
 </svg>
 
