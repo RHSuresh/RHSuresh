@@ -1,16 +1,5 @@
 <div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="100" viewBox="0 0 800 100">
-  <defs>
-    <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0b4c48"/>
-      <stop offset="100%" stop-color="#0b4c48" stop-opacity="0"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="100" fill="url(#fade)"/>
-  <text x="400" y="58" font-family="monospace" font-size="28" font-weight="400" letter-spacing="-0.5" fill="#6fe0d4" text-anchor="middle">Rohit Suresh</text>
-</svg>
-
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iOTAiIHZpZXdCb3g9IjAgMCA4MDAgOTAiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwYjRjNDgiLz4KICAgICAgPHN0b3Agb2Zmc2V0PSIxMDAlIiBzdG9wLWNvbG9yPSIjMGI0YzQ4IiBzdG9wLW9wYWNpdHk9IjAiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iOTAiIGZpbGw9InVybCgjZykiLz4KICA8dGV4dAogICAgeD0iNTAlIiB5PSI1NiIKICAgIGZvbnQtZmFtaWx5PSInRE0gTW9ubycsJ0NvdXJpZXIgTmV3JyxDb3VyaWVyLG1vbm9zcGFjZSIKICAgIGZvbnQtc2l6ZT0iMjYiCiAgICBmb250LXdlaWdodD0iNDAwIgogICAgbGV0dGVyLXNwYWNpbmc9Ii0wLjMiCiAgICBmaWxsPSIjNmZlMGQ0IgogICAgdGV4dC1hbmNob3I9Im1pZGRsZSIKICAgIGRvbWluYW50LWJhc2VsaW5lPSJtaWRkbGUiPlJvaGl0IFN1cmVzaDwvdGV4dD4KPC9zdmc+" width="100%" alt="Rohit Suresh"/>
 </div>
 
 <br/>
@@ -113,7 +102,6 @@ Senior CS student at UConn — Cybersecurity concentration, Cognitive Science mi
 
 ### GitHub Stats
 
-<!-- All three cards from github-profile-summary-cards — same host, consistent styling -->
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=RHSuresh&theme=transparent&title_color=6fe0d4&text_color=c5dbd9&bg_color=0b4c48&border_color=1a7a72" height="165" alt="Profile Stats"/>
   &nbsp;&nbsp;
@@ -129,15 +117,5 @@ Senior CS student at UConn — Cybersecurity concentration, Cognitive Science mi
 ---
 
 <div align="center">
-
-<svg xmlns="http://www.w3.org/2000/svg" width="800" height="60" viewBox="0 0 800 60">
-  <defs>
-    <linearGradient id="fadebottom" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#0b4c48" stop-opacity="0"/>
-      <stop offset="100%" stop-color="#0b4c48"/>
-    </linearGradient>
-  </defs>
-  <rect width="800" height="60" fill="url(#fadebottom)"/>
-</svg>
-
+<img src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI4MDAiIGhlaWdodD0iNjAiIHZpZXdCb3g9IjAgMCA4MDAgNjAiPgogIDxkZWZzPgogICAgPGxpbmVhckdyYWRpZW50IGlkPSJnIiB4MT0iMCIgeTE9IjAiIHgyPSIwIiB5Mj0iMSI+CiAgICAgIDxzdG9wIG9mZnNldD0iMCUiIHN0b3AtY29sb3I9IiMwYjRjNDgiIHN0b3Atb3BhY2l0eT0iMCIvPgogICAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwYjRjNDgiLz4KICAgIDwvbGluZWFyR3JhZGllbnQ+CiAgPC9kZWZzPgogIDxyZWN0IHdpZHRoPSI4MDAiIGhlaWdodD0iNjAiIGZpbGw9InVybCgjZykiLz4KPC9zdmc+" width="100%" alt=""/>
 </div>
